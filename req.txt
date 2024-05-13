@@ -1,0 +1,5 @@
+pip install yfinance
+yfinance
+tensorflow
+streamlit
+matplotlib
